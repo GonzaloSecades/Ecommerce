@@ -1,8 +1,7 @@
-# OMDB
+# eCOMMERce
 
-## OMDB API
-
-En este proyecto desarrollamos una APP que utilice la API de [OMDB](http://www.omdbapi.com/).
+Desarrollamos un e-commerce completo con una restAPI para usuarios, tanto clientes finales como administrador con su panel correspondiente.
+Base de datos para los productos, usuarios y ordenes de compra.
 
 ## Stack
 - React - Redux
@@ -12,17 +11,8 @@ En este proyecto desarrollamos una APP que utilice la API de [OMDB](http://www.o
 - Express
 - Passport
 
-## Estructura 
 
 
-## Objetivos
 
-* Buscar películas y listarlas.
-* Poder ver todos los detalles de una película en particular.
-* Poder agregar las películas a tu lista de favoritos.
-* Poder sacar películas de tu lista de favoritos.
-* Crear Usuarios.
-* Logearse con un usuario.
-* Buscar Usuarios.
-* Ver el perfil de un usuario con sus películas favoritas.
+
 
